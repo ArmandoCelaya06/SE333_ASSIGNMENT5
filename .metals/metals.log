@@ -29821,3 +29821,12 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.16 23:47:14 INFO  compiling assignment5_code-test (1 java source)
 2026.03.16 23:47:18 INFO  time: compiled Assignment5_code-test in 4.7s
 2026.03.16 23:47:19 INFO  skipping build import with status 'Installed'
+Mar 16, 2026 11:49:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.16 23:51:42 INFO  Shutting down server
+2026.03.16 23:51:42 INFO  Memory monitor stopped
+2026.03.16 23:51:42 INFO  shutting down Metals
+2026.03.16 23:51:43 INFO  Shut down connection with build server.
+2026.03.16 23:51:44 INFO  Exiting server
+2026.03.16 23:52:12 INFO  Started: Metals version 1.6.6 in folders '/Users/armandocelaya/Downloads/SE333/assignment5 celaya/SE333_ASSIGNMENT5' for client Visual Studio Code 1.111.0.
+2026.03.16 23:52:12 INFO  Memory monitor started
